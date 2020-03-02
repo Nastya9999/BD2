@@ -8,7 +8,7 @@ $_SESSION["password"]=trim(filter_var($_POST["password"]??"",FILTER_SANITIZE_STR
 /*$_SESSION["age"]=trim(filter_var($_POST["age"]??"",FILTER_SANITIZE_NUMBER_INT));*/
 /*$_SESSION["phone"]=trim(filter_var($_POST["phone"]??"",FILTER_SANITIZE_STRING));*/
 $_SESSION["auth"]=false;
-
+echo "!!!11";
 $error=[];
 if(isset($_POST["go"])){
     $stmt=$pdo->prepare("select * from users where password=:pass");
