@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2829a0-3dac-4366-b5fd-e6e43c78641d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="practice_posts/bfe5666a-e4a2-4a8e-8b57-9f668eca4e3d:SCHEMA" value="Violet" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [3]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="practice_posts: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VEL7BsPUv7Sn37DdrBfIn4z3tc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newBD" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\BD2" />
+      <recent name="C:\OSPanel\domains\BD2\posts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\BD2" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2829a0-3dac-4366-b5fd-e6e43c78641d" name="Default Changelist" comment="" />
+      <created>1576813137741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576813137741</updated>
+      <workItem from="1576813139622" duration="5312000" />
+      <workItem from="1578908561507" duration="695000" />
+      <workItem from="1578909895073" duration="2942000" />
+      <workItem from="1578979133959" duration="5825000" />
+      <workItem from="1579080005122" duration="2680000" />
+      <workItem from="1579253107735" duration="5418000" />
+      <workItem from="1579511757678" duration="5921000" />
+      <workItem from="1579583916019" duration="5470000" />
+      <workItem from="1579684702045" duration="5799000" />
+      <workItem from="1579843553432" duration="5369000" />
+      <workItem from="1580117307378" duration="5055000" />
+      <workItem from="1580188540341" duration="5738000" />
+      <workItem from="1580289487676" duration="2414000" />
+      <workItem from="1581327011580" duration="3828000" />
+      <workItem from="1581398255342" duration="4162000" />
+      <workItem from="1582708878475" duration="4783000" />
+      <workItem from="1582881397068" duration="4063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582712383253">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1582712383253" />
+    <state x="420" y="249" key="FileChooserDialogImpl" timestamp="1582881516957">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="249" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1582881516957" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1582712390828">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1280.984@0.0.1280.984" timestamp="1582712390828" />
+    <state x="347" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1582881408335">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="347" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1582881408335" />
+  </component>
+</project>
